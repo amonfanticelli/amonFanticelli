@@ -1,5 +1,9 @@
 ### Hi there, I'm Amon Fanticelli 👋
 
+🔥 Looking for a Front End Developer position
+
+🔭 Studying Full Stack development at Kenzie Academy Brasil 
+
 </div>
   
   ##
