@@ -1,8 +1,12 @@
 ### Hi there, I'm Amon Fanticelli 👋
 
+
+
 🔥 Looking for a Front End Developer position
 
 🔭 Studying Full Stack development at Kenzie Academy Brasil 
+
+
 
 </div>
   
@@ -11,6 +15,7 @@
 <div> 
 
 Languages I Work with: 
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
