@@ -14,7 +14,7 @@
  
 <div> 
 
-Languages I Work with: 
+My qualifications Are: 
 
 
 <div style="display: inline_block"><br>
