@@ -14,7 +14,7 @@
  
 <div> 
 
-My qualifications Are: 
+I have experience in: 
 
 
 <div style="display: inline_block"><br>
