@@ -2,7 +2,6 @@
 
 
 
-🔥 Looking for a Front End Developer position
 
 🔭 Studying Full Stack development at Kenzie Academy Brasil 
 
