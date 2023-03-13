@@ -3,7 +3,7 @@
 
 
 
-🔭 Studying Full Stack development at Kenzie Academy Brasil 
+🔭 I'm a Fullstack Developer, here in my github you will find some projects I made throughout my career in web development 
 
 
 
